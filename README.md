@@ -33,18 +33,18 @@ This project showcases a simple Express.js router module that handles various ro
 ```bash
 git clone https://github.com/shass005/04_express_33882590.git
 cd 04_express_33882590
-
+```
 2. Install Node.js (if not already installed)
 - Node.js installed (Download from [nodejs.org](https://nodejs.org))
 
 3. Insall express
 ```bash
 npm install express
-
+```
 4. Run the Server
 ```bash
 node index.js
-
+```
 5. Open your browser
 Visit: http://localhost:8000
 The webpage should be rendered
